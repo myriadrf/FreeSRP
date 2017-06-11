@@ -1,0 +1,23 @@
+2017-01-09
+
+PCB outline: FreeSRP.GM3
+NC Drill File: FreeSRP.TXT
+
+Top Silkscreen Overlay: FreeSRP.GTO
+Top Solder Mask: FreeSRP.GTS
+Top Layer: FreeSRP.GTL
+Internal Plane 1 (negative): FreeSRP.GP1
+Internal Plane 2 (negative): FreeSRP.GP2
+Mid Layer 1: FreeSRP.G1
+Internal Plane 3 (negative): FreeSRP.GP3
+Bottom Layer: FreeSRP.GBL
+Bottom Solder Mask: FreeSRP.GBS
+Bottom Silkscreen Overlay: FreeSRP.GBO
+
+Desired Copper Layer Order, Top to Bottom:
+1: FreeSRP.GTL
+2: FreeSRP.GP1 (negative)
+3: FreeSRP.GP2 (negative)
+4: FreeSRP.G1
+5: FreeSRP.GP3 (negative)
+6: FreeSRP.GBL
